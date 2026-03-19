@@ -12,6 +12,6 @@ This tool helps guitarists tune their instruments by playing high-quality refere
 * **Built on iPhone XR:** Proof of complex functionality developed entirely on mobile.
 
 ### 🔗 Live Demo
-[Launch Guitar Tuner](https://yongedison.github.io/apps.html)
+[Launch Guitar Tuner](https://yongedison.github.io/Guitar-Tuner-/))
 
 *"As a guitarist and coder, I built this to solve a real-world musician's problem using code."*
